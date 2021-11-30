@@ -1,6 +1,7 @@
 # flower_recognition
 
 >OBJECTIVE
+
 To create an effective model using the Convolutional Neural Network for flower image classification, using the images of Dandelion and Tulip.
 
 >INTRODUCTION
